@@ -1,4 +1,4 @@
-# Microsoft---NorthWind-Database-Data-Analysis
+# Microsoft-NorthWind-Database-Data-Analysis
 
 This Repository contains 40 SQL queries which analyses a data stored in Microsoft northwind database.
 
